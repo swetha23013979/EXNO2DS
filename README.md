@@ -1,7 +1,7 @@
 # EXNO2DS
+# REG NO:212223040222
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
-      
 # EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
